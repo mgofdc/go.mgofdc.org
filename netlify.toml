@@ -45,7 +45,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/pecon-hickory-pawnee"
+  from = "/ellington-arboretum/pecan-hickory-pawnee"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281352&isprofile=1&gen=Carya"
   status = 307
 
@@ -130,11 +130,6 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/holly"
-  to = "TODO"
-  status = 307
-
-[[redirects]]
   from = "/ellington-arboretum/black-walnut"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a875"
   status = 307
@@ -160,11 +155,6 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/magnolia"
-  to = "TODO"
-  status = 307
-
-[[redirects]]
   from = "/ellington-arboretum/southern-magnolia"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c117"
   status = 307
@@ -180,7 +170,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/black-gum-(black-tupelo)"
+  from = "/ellington-arboretum/black-gum-black-tupelo"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a670"
   status = 307
 
