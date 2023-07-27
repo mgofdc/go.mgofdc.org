@@ -253,3 +253,28 @@
   from = "/ellington-arboretum/japanese-elm"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a927"
   status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/holly"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c822"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/foster-holly-topal-holly"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=q190"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/large-flowered-magnolia"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c823"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/little-leaf-linden"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a918"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/star-magnolia"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=l130"
+  status = 307
