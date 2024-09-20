@@ -278,3 +278,33 @@
   from = "/ellington-arboretum/star-magnolia"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=l130"
   status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/sugarberry"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287403&isprofile=1&basic=sugarberry"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/sweet-bay-magnolia"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=282522&isprofile=1&basic=sweet%20bay%20magnolia"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/honey-locust"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280280&isprofile=1&basic=honey%20locust"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/sweet-gum"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281024&isprofile=1&adv=sweet%20gum"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/black-gum"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279346&isprofile=1&adv=black%20gum"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/dogdood-grove"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338&isprofile=1&basic=Cornus%20florida"
+  status = 307
