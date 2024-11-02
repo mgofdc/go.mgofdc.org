@@ -305,6 +305,8 @@
   status = 307
 
 [[redirects]]
+  # this is a known typo: dogdood, instead of dogwood
+  # it’s already embedded into a QR code, so we need to maintain this redirect
   from = "/ellington-arboretum/dogdood-grove"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338&isprofile=1&basic=Cornus%20florida"
   status = 307
