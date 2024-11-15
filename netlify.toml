@@ -310,3 +310,63 @@
   from = "/ellington-arboretum/dogdood-grove"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=279338&isprofile=1&basic=Cornus%20florida"
   status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/northern-catalpa"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a856"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/carolina-buckthorn"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=262390"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/possumhaw"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276160"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/natchez-crape-myrtle"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=w110"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/sourwood"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a887"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/yoshino-cherry"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=286608"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/scarlet-oak"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=r700"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/swamp-chestnut-oak"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280721"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/black-oak"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280729"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/sassafras"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=i820"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/american-snowbell"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287280"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/princeton-elm"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254119"
+  status = 307
