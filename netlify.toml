@@ -370,3 +370,8 @@
   from = "/ellington-arboretum/princeton-elm"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254119"
   status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/nuttall-oak"
+  to = "https://plants.ces.ncsu.edu/plants/quercus-texana/"
+  status = 307
