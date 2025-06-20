@@ -380,3 +380,8 @@
   from = "/ellington-arboretum/American-Sycamore"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a891"
   status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/Friends-for-Life"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287403&isprofile=1&basic=sugarberry"
+  status = 307
