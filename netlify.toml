@@ -125,7 +125,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/american-holly"
+  from = "/ellington-arboretum/American-Holly"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=k640"
   status = 307
 
@@ -317,7 +317,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/carolina-buckthorn"
+  from = "/ellington-arboretum/Carolina-Buckthorn"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=262390"
   status = 307
 
@@ -342,7 +342,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/scarlet-oak"
+  from = "/ellington-arboretum/Scarlet-Oak"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=r700"
   status = 307
 
@@ -352,7 +352,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/black-oak"
+  from = "/ellington-arboretum/Black-Oak"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280729"
   status = 307
 
@@ -377,6 +377,6 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/american-sycamore"
+  from = "/ellington-arboretum/American-Sycamore"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a891"
   status = 307
