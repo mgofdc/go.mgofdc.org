@@ -332,7 +332,7 @@
   status = 307
 
 [[redirects]]
-  from = "/ellington-arboretum/sourwood"
+  from = "/ellington-arboretum/Sourwood"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a887"
   status = 307
 
