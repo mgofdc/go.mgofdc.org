@@ -385,3 +385,33 @@
   from = "/ellington-arboretum/Friends-for-Life"
   to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287403&isprofile=1&basic=sugarberry"
   status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/kentucky-coffeetree"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=370147"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/silverbell"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287278"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/dawn-redwood"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=287316"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/hornbeam"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277833"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/hophornbeam"
+  to = "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=277822"
+  status = 307
+
+[[redirects]]
+  from = "/ellington-arboretum/eastern-redbud-golden-falls"
+  to = "https://plants.ces.ncsu.edu/plants/cercis-canadensis-golden-falls-nc2015-12/"
+  status = 307
